@@ -69,6 +69,6 @@ public class main extends JFrame {
 
     // Main method - entry point of the program
     public static void main(String[] args) {
-      new main();
+    new main();
         }
 }
